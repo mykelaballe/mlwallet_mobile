@@ -26,14 +26,6 @@ M Lhuillier is a major financial company which offers services and products that
 ### My Contribution
 Solely built the app's front-end for both Android and iOS
 
-### Store Listing
-Google Play Store  
-https://play.google.com/store/apps/details?id=com.kalypsotech.sbhe&hl=en  
-<img src="https://user-images.githubusercontent.com/22584900/64804863-4cc71d00-d5c2-11e9-902f-1f64cc0a9bc4.JPG" width="300"/>
-
-### Screenshots
-<img src="https://user-images.githubusercontent.com/22584900/64805070-c828ce80-d5c2-11e9-8998-95ecc7058956.jpg" width="800"/>
-
 ### Notable Features
 * Google Maps
 * Fingerprint Recognition
