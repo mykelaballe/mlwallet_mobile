@@ -8,7 +8,7 @@
 built with [React Native](https://facebook.github.io/react-native/)
 
 # About The App
-The ML Wallet is a smart and convenient stored-value card system that allows drawing and sending cash and paying bills with just a few taps on your smartphones.
+A rewrite of the existing app using React Native. The ML Wallet is a smart and convenient stored-value card system that allows drawing and sending cash and paying bills with just a few taps on your smartphones.
 Features like:
 * Send Money
 * Receive Money
