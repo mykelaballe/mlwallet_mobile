@@ -30,6 +30,8 @@ Solely built the app's front-end for both Android and iOS
 <img src="https://user-images.githubusercontent.com/22584900/79627333-f4648900-8169-11ea-9eaf-77aaae2a728d.png" width="800"/>
 
 ### Notable Features
+* Blink Detection
+* Live Photo and ID Photo Comparison
 * Google Maps
 * Fingerprint Recognition
 * Local storage
