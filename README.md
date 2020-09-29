@@ -33,6 +33,9 @@ Solely built the app's front-end for both Android and iOS
 * Blink Detection
 * Live Photo and ID Photo Comparison
 * Google Maps
+* Huawei Mobile Services Maps
+* Google Location Detection
+* Huawei Mobile Services Location Detection
 * Fingerprint Recognition
 * Local storage
 * Photo Capturing
@@ -43,6 +46,8 @@ Solely built the app's front-end for both Android and iOS
 ### Notable Libraries Used
 * [react-native-maps](https://github.com/react-native-community/react-native-maps)
 * [react-native-touch-id](https://github.com/naoufal/react-native-touch-id)
+* [react-native-hms-location](https://github.com/HMS-Core/hms-react-native-plugin/tree/master/react-native-hms-location)
+* [react-native-hms-map](https://github.com/HMS-Core/hms-react-native-plugin/tree/master/react-native-hms-map)
 * [react-native-storage](https://github.com/sunnylqm/react-native-storage)
 * [react-native-camera](https://github.com/react-native-community/react-native-camera)
 * [react-native-qrcode-svg](https://github.com/awesomejerry/react-native-qrcode-svg)
